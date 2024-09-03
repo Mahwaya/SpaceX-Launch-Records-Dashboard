@@ -1,2 +1,2 @@
 # SpaceX-Launch-Records-Dashboard
-This project is a Dash web application that visualizes SpaceX's launch records.
+This project is a Dash web application that visualizes SpaceX's launch records. The dashboard allows users to explore data related to SpaceX's launches, including the success rate of launches and the correlation between payload mass and launch outcomes. The application is built using Python, Dash, and Plotly Express, and it provides interactive visualizations for users to filter and analyze the data based on different criteria.
